@@ -1,0 +1,17 @@
+﻿# Here you can specify files to ignore when adding files to the depot.
+#
+# - Files are specified in local syntax
+# - a # character at the beginning of a line denotes a comment
+# - a ! character at the beginning of a line excludes the file specification
+# - a * wildcard matches substrings.
+#
+# For example:
+# 
+# foo.txt    Ignore files called "foo.txt"
+# *.exe      Ignore all executables
+# !bar.exe   Exclude bar.exe from being ignored
+#
+#
+
+.vs
+
